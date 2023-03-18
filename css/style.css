@@ -1,0 +1,172 @@
+
+ul,
+ol{
+  margin: 0;
+  padding-left: 0;
+}
+
+
+.list{
+    list-style:none;
+    }
+    .link{
+    text-decoration: none;    
+    }
+/* -----------Index------------- */
+
+.body{
+    color:black;
+    background-color: gray;
+    font-family: "Roboto", sans-serif;
+}
+
+.background{
+    background-color: brown; 
+    padding-top: 30px;
+    padding-bottom: 50px;
+    padding-left: 50px;
+}
+
+.home-list{
+    background-color:black;
+    display: flex;
+    padding: 5px;
+    padding-left: 50px;
+    gap: 30px;
+}
+
+.red{
+    font-family: 'Raleway', sans-serif;
+    font-weight: 800;
+    font-size: 34px;
+    line-height: 1.5;
+    letter-spacing: 0.03em;
+    color: azure;
+    min-width: 250px;
+    margin: 0;
+}
+
+.first-par{
+    font-weight: 400;
+    font-size: 30px;
+    line-height: 1.4;
+    letter-spacing: 0.03px;
+color: azure;
+min-width: 350px;
+margin: 0;
+}
+
+.home-link{
+font-weight: 500;
+font-size: 20px;
+line-height: 1.33;
+letter-spacing: 0.04em;
+color: gray;
+cursor: pointer;
+text-decoration: none;
+}
+
+.home-link:hover,
+.home-link:focus{
+    color: white;
+}
+
+
+.main{
+    padding-top: 20px;
+}
+
+
+
+
+.lisence{
+    background-color: white; 
+    padding-left: 20px;
+    max-width: 1150px;
+    border: 3px solid black;
+}
+
+.lisence-title{
+    min-width: 300px;
+    font-weight: 600;
+    font-size: 30px;
+margin-bottom: unset;
+}
+
+
+
+.lisence-paragraph{
+    font-weight: 400;
+    font-size: 30px;
+    line-height: 1.4;
+    letter-spacing: 0.03px;
+    max-width: 1100px;
+    margin-top: 5px;
+}
+
+
+
+.paragraph-down{
+
+    font-weight: 400;
+    font-size: 30px;
+    line-height: 1.4;
+    letter-spacing: 0.03px;
+
+}
+
+.second-tite{
+    min-width: 420px;
+    font-weight: 600;
+    font-size: 30px;
+margin-bottom: unset;
+}
+
+.second-par{
+    font-weight: 400;
+    font-size: 30px;
+    line-height: 1.4;
+    letter-spacing: 0.03px;
+    max-width: 1100px;
+    margin-top: 5px;
+}
+
+
+.footer {
+    background-color: #fff;
+    max-width: 300px;
+    border: 3px solid black;
+    position: absolute;
+    min-width: 300px;
+    top: 230px;
+    right: 0;
+    padding-bottom: 25px;
+}
+
+.first-part{
+    padding-left: 25px;
+}
+
+.second-part{
+    padding-left: 25px;
+}
+
+.wild-list{
+    padding-left: 25px;
+}
+
+.wild{
+    font-weight: 400;
+    font-size: 22px;
+    line-height: 1.7;
+    letter-spacing: 0.03em;
+}
+
+.photo{
+    float: left;
+}
+
+.finally{
+    font-weight: 600;
+    font-size: 30px;
+}
